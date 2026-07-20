@@ -222,7 +222,7 @@ streamlit run app.py
 
 ---
 
-## Fairness Analysis
+## About
 
 <img width="1920" height="918" alt="image" src="https://github.com/user-attachments/assets/2a00b93e-ef1a-496c-a230-4a2f8fa39aba" />
 
