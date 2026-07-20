@@ -228,7 +228,7 @@ streamlit run app.py
 
 ---
 
-# 📈 Future Improvements
+#  Future Improvements
 
 - Authentication
 - Database Integration
@@ -242,7 +242,7 @@ streamlit run app.py
 
 ---
 
-# 🎯 Learning Outcomes
+#  Learning Outcomes
 
 This project demonstrates:
 
