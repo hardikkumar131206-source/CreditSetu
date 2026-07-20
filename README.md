@@ -34,7 +34,7 @@ The project follows a modular software architecture with complete separation of 
 
 #  Features
 
-### 📊 Executive Dashboard
+###  Executive Dashboard
 
 - Portfolio analytics
 - Approval statistics
@@ -152,7 +152,7 @@ CreditSetu/
 
 ---
 
-# ⚙️ Installation
+#  Installation
 
 Clone the repository
 
@@ -180,7 +180,7 @@ streamlit run app.py
 
 ---
 
-# 🌐 Live Demo
+#  Live Demo
 
 **Application**
 
@@ -192,29 +192,39 @@ streamlit run app.py
 
 ---
 
-# 📸 Screenshots
+#  Screenshots
 
 ## Dashboard
 
-> *(Add dashboard screenshot here)*
+<img width="1919" height="921" alt="image" src="https://github.com/user-attachments/assets/d931cce2-5652-40e4-901f-136a081cecf3" />
+
 
 ---
 
 ## Loan Prediction
 
-> *(Add prediction page screenshot here)*
+<img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/b43af2db-6cba-43ef-a92f-100c611109b5" />
+
 
 ---
 
 ## SHAP Explainability
 
-> *(Add SHAP screenshot here)*
+<img width="1918" height="913" alt="image" src="https://github.com/user-attachments/assets/e2bc07a9-13df-46c5-b8a4-526202a86106" />
+
 
 ---
 
 ## Fairness Analysis
 
-> *(Add fairness dashboard screenshot here)*
+<img width="1920" height="917" alt="image" src="https://github.com/user-attachments/assets/c7004346-10f3-485c-afa7-560c7e5127a9" />
+
+
+---
+
+## Fairness Analysis
+
+<img width="1920" height="918" alt="image" src="https://github.com/user-attachments/assets/2a00b93e-ef1a-496c-a230-4a2f8fa39aba" />
 
 ---
 
