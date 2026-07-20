@@ -1,0 +1,44 @@
+{
+  "generated_at": "Static baseline",
+  "summary": {
+    "status": "Baseline",
+    "message": "Replace this artifact with the latest trained-model fairness report."
+  },
+  "segments": [
+    {
+      "segment": "Urban",
+      "approval_rate": 0.76,
+      "baseline_rate": 0.72,
+      "gap": 0.04,
+      "status": "Healthy"
+    },
+    {
+      "segment": "Semiurban",
+      "approval_rate": 0.71,
+      "baseline_rate": 0.72,
+      "gap": -0.01,
+      "status": "Healthy"
+    },
+    {
+      "segment": "Rural",
+      "approval_rate": 0.66,
+      "baseline_rate": 0.72,
+      "gap": -0.06,
+      "status": "Watch"
+    },
+    {
+      "segment": "New-to-Credit",
+      "approval_rate": 0.61,
+      "baseline_rate": 0.72,
+      "gap": -0.11,
+      "status": "Review"
+    },
+    {
+      "segment": "SME",
+      "approval_rate": 0.68,
+      "baseline_rate": 0.72,
+      "gap": -0.04,
+      "status": "Watch"
+    }
+  ]
+}
