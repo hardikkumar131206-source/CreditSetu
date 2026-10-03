@@ -256,19 +256,6 @@ This project demonstrates:
 
 ---
 
-#  Team
-
-This project was collaboratively designed and developed by:
-
-| Name | Role |
-|------|------|
-| **Hardik Kumar** | Project Lead • AI/ML • Backend Development |
-| **Aanya Arora** | Frontend Development • UI/UX |
-| **Divesh Aherwar** | Backend Development • System Integration |
-| **Tanisha Tayal** | Research • Testing • Documentation |
-
----
-
 #  Contributing
 
 Contributions are welcome.
@@ -287,8 +274,3 @@ If you found this project helpful, please consider giving it a ⭐ on GitHub!
 
 It helps others discover the project and motivates further development.
 
----
-
-## License
-
-This project is licensed under the MIT License.
