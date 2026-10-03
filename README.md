@@ -274,3 +274,13 @@ If you found this project helpful, please consider giving it a ⭐ on GitHub!
 
 It helps others discover the project and motivates further development.
 
+---
+
+##  Author
+
+**Hardik Kumar**
+📧 hardikumar131206@gmail.com
+🔗 [linkedin.com/in](https://www.linkedin.com/in/hardik-kumar-7631a832b)
+🐙 [github.com](https://github.com/hardikkumar131206-source)
+
+---
